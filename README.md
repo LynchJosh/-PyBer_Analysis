@@ -19,4 +19,5 @@ The purpose of this analysis was to find the average fare price for a ride-shari
 
 
 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/112728628/199505501-95b29a3d-f6cf-476f-b49a-4cb127750852.png)
 
